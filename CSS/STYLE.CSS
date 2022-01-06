@@ -1,0 +1,242 @@
+@inport FONTS.CSS;
+
+:root{
+    --r-:'DancingScript';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    border-bottom: 5px solid #e1e1e1;
+}
+
+
+.header-block {
+    width: 100%;
+    height: 125px;
+    background: #f5f5f5;
+    display: flex;
+    padding-left: 174px;
+    padding-top: 40px;
+    
+}
+
+
+.hp1 {
+    font-size: 50px;
+    color:#ff7700;
+    font-family: ;
+}
+
+.hp2 {
+    font-size: 50px;
+    color: #8e8e8e;
+}
+
+.header-block-2 {
+    width: 750px;
+    height: 125px;
+    background: #f5f5f5;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 198px;
+    padding-top: 40px;
+   
+}
+
+
+.l{
+    margin-top: 13px;
+}
+.ll{
+    margin-top: 17px;
+}
+.lll{
+    margin-top: 16px;
+}
+.llll{
+    margin-top: 13px;
+}
+
+
+.kr1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+.kr2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.kr3 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.kr4 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section photo img {
+    display: flex;
+}
+
+.container {
+    max-width: 1110px;
+    width: 100%;
+    margin: auto;
+    margin-top: 212px;
+}
+
+.Photo-General {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    box-shadow: 0px 0px 12px #000;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-right: 8px;
+    margin-left: 36px;
+}
+
+.photoIn {
+    position: relative;
+    top: 0;
+    left: 0;
+
+}
+
+.photoIn img {
+    width: 100%;
+}
+
+.photoIn h3 {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+    color: #fff;
+}
+
+.comments {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.comments2 {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.imgstyle {
+    background: grey;
+    width: 20px;
+    height: 20px;
+    margin-left: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: inset 0 0 2px #000;
+}
+
+.comments-3 {
+    background: #283e8f;
+    width: 20px;
+    height: 20px;
+    margin-left: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: inset 0 0 2px #000;
+}
+
+.comments-4 {
+    background: gray;
+    width: 20px;
+    height: 20px;
+    margin-left: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: inset 0 0 2px #000;
+}
+
+.comments-5 {
+    background: grey;
+    width: 20px;
+    height: 20px;
+    margin-left: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: inset 0 0 2px #000;
+}
+
+.liniya {
+    width: 201px;
+    height: 1px;
+    background: #000;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+
+.div-korobka {
+    margin-top: 300px;
+    widows: 1000px;
+    height: 905px;
+    background: rgb(255, 255, 255);
+}
+
+.k1 {
+    width: 1055px;
+    height: 300px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    margin: auto;
+}
+
+.ch {
+    width: 217px;
+    height: 280px;
+    background: rgb(255, 255, 255);
+}
